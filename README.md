@@ -6,7 +6,7 @@ Copyright © 2016 [NUBOMEDIA]. Licensed under [Apache 2.0 License].
 [![Build Status](https://travis-ci.org/nubomediaTI/Kurento-iOS.svg?branch=master)](https://travis-ci.org/nubomediaTI/Kurento-iOS)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/KurentoToolbox.svg)](https://img.shields.io/cocoapods/v/KurentoToolbox.svg)
 [![Platform](https://img.shields.io/cocoapods/p/KurentoToolbox.svg?style=flat)](http://cocoadocs.org/docsets/KurentoToolbox)
-[![License](https://img.shields.io/cocoapods/l/KurentoToolbox.svg)](https://img.shields.io/cocoapods/l/KurentoToolbox.svg)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **Kurento Toolbox for iOS** provides a set of basic components that have been found useful during the native development of WebRTC applications with Kurento, helping in implementing iOS client for Kurento. 
 
